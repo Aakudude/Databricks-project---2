@@ -1,0 +1,4 @@
+We are looking for an AI/ML Intern with strong fundamentals in Python and Machine Learning.
+The candidate should have experience with SQL, data analysis, and NLP techniques.
+Hands-on exposure to PySpark and Databricks is a plus.
+Familiarity with ETL pipelines, data preprocessing, and basic deep learning concepts is desirable.
