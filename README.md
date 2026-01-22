@@ -30,3 +30,6 @@ This project implements an end-to-end Resume–Job Description matching pipeline
 
 ## Notes
 Rule-based skill extraction is used for explainability. The pipeline is designed to be extensible with NLP models such as spaCy.
+
+This project is designed to run on Databricks.
+
